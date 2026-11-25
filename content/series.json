@@ -1,0 +1,446 @@
+[
+  {
+    "id": "C01",
+    "topic": "Social anxiety",
+    "title": "The conversation after the conversation",
+    "hook_a": "Still replaying that one sentence?",
+    "hook_b": "POV: You said hello. Your brain opened a review meeting.",
+    "setup": "You said hello. Your brain opened a review meeting.",
+    "payoff": "Let one ordinary conversation stay ordinary.",
+    "cta": "What moment does your brain keep replaying?",
+    "caption": "Still replaying that one sentence?\n\nYou said hello. Your brain opened a review meeting.\n\nLet one ordinary conversation stay ordinary.\n\nWhat moment does your brain keep replaying?\n#SeenAndUnderstood #EverydayConnection",
+    "duration_seconds": 25,
+    "asset": "content/C01.svg",
+    "color": "#176a54",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "Close-up, direct eye contact. Hook as large on-screen type.",
+        "voiceover": "Still replaying that one sentence?"
+      },
+      {
+        "time": "3–11s",
+        "visual": "Cut to a familiar everyday setting. Hold on one small gesture.",
+        "voiceover": "You said hello. Your brain opened a review meeting."
+      },
+      {
+        "time": "11–20s",
+        "visual": "Return to camera. Slow the pace and soften the delivery.",
+        "voiceover": "Let one ordinary conversation stay ordinary."
+      },
+      {
+        "time": "20–25s",
+        "visual": "End card with the question. Leave a beat for reflection.",
+        "voiceover": "What moment does your brain keep replaying?"
+      }
+    ],
+    "experiment": "Compare text-first hook A with acted POV hook B. Keep the remaining 22 seconds, caption, duration, platform and observation window fixed."
+  },
+  {
+    "id": "C02",
+    "topic": "Social anxiety",
+    "title": "The phone-call rehearsal",
+    "hook_a": "One call. Twelve practice runs.",
+    "hook_b": "POV: The call takes thirty seconds. The rehearsal takes the afternoon.",
+    "setup": "The call takes thirty seconds. The rehearsal takes the afternoon.",
+    "payoff": "You can start with: “Hi, I have a quick question.”",
+    "cta": "Do you rehearse the first sentence too?",
+    "caption": "One call. Twelve practice runs.\n\nThe call takes thirty seconds. The rehearsal takes the afternoon.\n\nYou can start with: “Hi, I have a quick question.”\n\nDo you rehearse the first sentence too?\n#SeenAndUnderstood #EverydayConnection",
+    "duration_seconds": 25,
+    "asset": "content/C02.svg",
+    "color": "#176a54",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "Close-up, direct eye contact. Hook as large on-screen type.",
+        "voiceover": "One call. Twelve practice runs."
+      },
+      {
+        "time": "3–11s",
+        "visual": "Cut to a familiar everyday setting. Hold on one small gesture.",
+        "voiceover": "The call takes thirty seconds. The rehearsal takes the afternoon."
+      },
+      {
+        "time": "11–20s",
+        "visual": "Return to camera. Slow the pace and soften the delivery.",
+        "voiceover": "You can start with: “Hi, I have a quick question.”"
+      },
+      {
+        "time": "20–25s",
+        "visual": "End card with the question. Leave a beat for reflection.",
+        "voiceover": "Do you rehearse the first sentence too?"
+      }
+    ],
+    "experiment": "Compare text-first hook A with acted POV hook B. Keep the remaining 22 seconds, caption, duration, platform and observation window fixed."
+  },
+  {
+    "id": "C03",
+    "topic": "Burnout",
+    "title": "Rest does not need a receipt",
+    "hook_a": "You do not have to earn a quiet evening.",
+    "hook_b": "POV: Closing the laptop is easy. Closing the mental tabs takes longer.",
+    "setup": "Closing the laptop is easy. Closing the mental tabs takes longer.",
+    "payoff": "Choose one small thing that can wait until tomorrow.",
+    "cta": "What is one thing you are letting wait?",
+    "caption": "You do not have to earn a quiet evening.\n\nClosing the laptop is easy. Closing the mental tabs takes longer.\n\nChoose one small thing that can wait until tomorrow.\n\nWhat is one thing you are letting wait?\n#SeenAndUnderstood #EverydayConnection",
+    "duration_seconds": 25,
+    "asset": "content/C03.svg",
+    "color": "#d18761",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "Close-up, direct eye contact. Hook as large on-screen type.",
+        "voiceover": "You do not have to earn a quiet evening."
+      },
+      {
+        "time": "3–11s",
+        "visual": "Cut to a familiar everyday setting. Hold on one small gesture.",
+        "voiceover": "Closing the laptop is easy. Closing the mental tabs takes longer."
+      },
+      {
+        "time": "11–20s",
+        "visual": "Return to camera. Slow the pace and soften the delivery.",
+        "voiceover": "Choose one small thing that can wait until tomorrow."
+      },
+      {
+        "time": "20–25s",
+        "visual": "End card with the question. Leave a beat for reflection.",
+        "voiceover": "What is one thing you are letting wait?"
+      }
+    ],
+    "experiment": "Compare text-first hook A with acted POV hook B. Keep the remaining 22 seconds, caption, duration, platform and observation window fixed."
+  },
+  {
+    "id": "C04",
+    "topic": "Burnout",
+    "title": "The Sunday loading screen",
+    "hook_a": "Sunday evening, Monday in your head.",
+    "hook_b": "POV: You are sitting on the sofa, already answering tomorrow’s emails.",
+    "setup": "You are sitting on the sofa, already answering tomorrow’s emails.",
+    "payoff": "Write tomorrow’s first task down. Give tonight back to yourself.",
+    "cta": "When does your weekend start feeling like work?",
+    "caption": "Sunday evening, Monday in your head.\n\nYou are sitting on the sofa, already answering tomorrow’s emails.\n\nWrite tomorrow’s first task down. Give tonight back to yourself.\n\nWhen does your weekend start feeling like work?\n#SeenAndUnderstood #EverydayConnection",
+    "duration_seconds": 25,
+    "asset": "content/C04.svg",
+    "color": "#d18761",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "Close-up, direct eye contact. Hook as large on-screen type.",
+        "voiceover": "Sunday evening, Monday in your head."
+      },
+      {
+        "time": "3–11s",
+        "visual": "Cut to a familiar everyday setting. Hold on one small gesture.",
+        "voiceover": "You are sitting on the sofa, already answering tomorrow’s emails."
+      },
+      {
+        "time": "11–20s",
+        "visual": "Return to camera. Slow the pace and soften the delivery.",
+        "voiceover": "Write tomorrow’s first task down. Give tonight back to yourself."
+      },
+      {
+        "time": "20–25s",
+        "visual": "End card with the question. Leave a beat for reflection.",
+        "voiceover": "When does your weekend start feeling like work?"
+      }
+    ],
+    "experiment": "Compare text-first hook A with acted POV hook B. Keep the remaining 22 seconds, caption, duration, platform and observation window fixed."
+  },
+  {
+    "id": "C05",
+    "topic": "Self comparison",
+    "title": "A timeline of your own",
+    "hook_a": "Your life is not a delayed version of theirs.",
+    "hook_b": "POV: One promotion post and suddenly your entire year feels too small.",
+    "setup": "One promotion post and suddenly your entire year feels too small.",
+    "payoff": "Name one quiet thing you learned this month. That counts too.",
+    "cta": "What progress did nobody see?",
+    "caption": "Your life is not a delayed version of theirs.\n\nOne promotion post and suddenly your entire year feels too small.\n\nName one quiet thing you learned this month. That counts too.\n\nWhat progress did nobody see?\n#SeenAndUnderstood #EverydayConnection",
+    "duration_seconds": 25,
+    "asset": "content/C05.svg",
+    "color": "#6a5a89",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "Close-up, direct eye contact. Hook as large on-screen type.",
+        "voiceover": "Your life is not a delayed version of theirs."
+      },
+      {
+        "time": "3–11s",
+        "visual": "Cut to a familiar everyday setting. Hold on one small gesture.",
+        "voiceover": "One promotion post and suddenly your entire year feels too small."
+      },
+      {
+        "time": "11–20s",
+        "visual": "Return to camera. Slow the pace and soften the delivery.",
+        "voiceover": "Name one quiet thing you learned this month. That counts too."
+      },
+      {
+        "time": "20–25s",
+        "visual": "End card with the question. Leave a beat for reflection.",
+        "voiceover": "What progress did nobody see?"
+      }
+    ],
+    "experiment": "Compare text-first hook A with acted POV hook B. Keep the remaining 22 seconds, caption, duration, platform and observation window fixed."
+  },
+  {
+    "id": "C06",
+    "topic": "Self comparison",
+    "title": "The highlight-reel spiral",
+    "hook_a": "Five minutes of scrolling. A whole new set of doubts.",
+    "hook_b": "POV: You compare your ordinary Tuesday with everyone’s best day.",
+    "setup": "You compare your ordinary Tuesday with everyone’s best day.",
+    "payoff": "Put the phone down and return to one thing you actually enjoy.",
+    "cta": "What brings you back to your own life?",
+    "caption": "Five minutes of scrolling. A whole new set of doubts.\n\nYou compare your ordinary Tuesday with everyone’s best day.\n\nPut the phone down and return to one thing you actually enjoy.\n\nWhat brings you back to your own life?\n#SeenAndUnderstood #EverydayConnection",
+    "duration_seconds": 25,
+    "asset": "content/C06.svg",
+    "color": "#6a5a89",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "Close-up, direct eye contact. Hook as large on-screen type.",
+        "voiceover": "Five minutes of scrolling. A whole new set of doubts."
+      },
+      {
+        "time": "3–11s",
+        "visual": "Cut to a familiar everyday setting. Hold on one small gesture.",
+        "voiceover": "You compare your ordinary Tuesday with everyone’s best day."
+      },
+      {
+        "time": "11–20s",
+        "visual": "Return to camera. Slow the pace and soften the delivery.",
+        "voiceover": "Put the phone down and return to one thing you actually enjoy."
+      },
+      {
+        "time": "20–25s",
+        "visual": "End card with the question. Leave a beat for reflection.",
+        "voiceover": "What brings you back to your own life?"
+      }
+    ],
+    "experiment": "Compare text-first hook A with acted POV hook B. Keep the remaining 22 seconds, caption, duration, platform and observation window fixed."
+  },
+  {
+    "id": "C07",
+    "topic": "Friendship",
+    "title": "Friendship in calendar invites",
+    "hook_a": "“We should catch up” deserves a date.",
+    "hook_b": "POV: You miss people you love while both of you are just trying to finish the week.",
+    "setup": "You miss people you love while both of you are just trying to finish the week.",
+    "payoff": "Try a ten-minute voice note instead of the perfect plan.",
+    "cta": "Who would you send a tiny life update to?",
+    "caption": "“We should catch up” deserves a date.\n\nYou miss people you love while both of you are just trying to finish the week.\n\nTry a ten-minute voice note instead of the perfect plan.\n\nWho would you send a tiny life update to?\n#SeenAndUnderstood #EverydayConnection",
+    "duration_seconds": 25,
+    "asset": "content/C07.svg",
+    "color": "#5c7591",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "Close-up, direct eye contact. Hook as large on-screen type.",
+        "voiceover": "“We should catch up” deserves a date."
+      },
+      {
+        "time": "3–11s",
+        "visual": "Cut to a familiar everyday setting. Hold on one small gesture.",
+        "voiceover": "You miss people you love while both of you are just trying to finish the week."
+      },
+      {
+        "time": "11–20s",
+        "visual": "Return to camera. Slow the pace and soften the delivery.",
+        "voiceover": "Try a ten-minute voice note instead of the perfect plan."
+      },
+      {
+        "time": "20–25s",
+        "visual": "End card with the question. Leave a beat for reflection.",
+        "voiceover": "Who would you send a tiny life update to?"
+      }
+    ],
+    "experiment": "Compare text-first hook A with acted POV hook B. Keep the remaining 22 seconds, caption, duration, platform and observation window fixed."
+  },
+  {
+    "id": "C08",
+    "topic": "Friendship",
+    "title": "The low-battery friend",
+    "hook_a": "A slow reply can still hold a lot of love.",
+    "hook_b": "POV: Sometimes you have the affection but not the energy for a conversation.",
+    "setup": "Sometimes you have the affection but not the energy for a conversation.",
+    "payoff": "“Thinking of you. Low on energy. Replying properly soon.”",
+    "cta": "What makes staying in touch easier for you?",
+    "caption": "A slow reply can still hold a lot of love.\n\nSometimes you have the affection but not the energy for a conversation.\n\n“Thinking of you. Low on energy. Replying properly soon.”\n\nWhat makes staying in touch easier for you?\n#SeenAndUnderstood #EverydayConnection",
+    "duration_seconds": 25,
+    "asset": "content/C08.svg",
+    "color": "#5c7591",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "Close-up, direct eye contact. Hook as large on-screen type.",
+        "voiceover": "A slow reply can still hold a lot of love."
+      },
+      {
+        "time": "3–11s",
+        "visual": "Cut to a familiar everyday setting. Hold on one small gesture.",
+        "voiceover": "Sometimes you have the affection but not the energy for a conversation."
+      },
+      {
+        "time": "11–20s",
+        "visual": "Return to camera. Slow the pace and soften the delivery.",
+        "voiceover": "“Thinking of you. Low on energy. Replying properly soon.”"
+      },
+      {
+        "time": "20–25s",
+        "visual": "End card with the question. Leave a beat for reflection.",
+        "voiceover": "What makes staying in touch easier for you?"
+      }
+    ],
+    "experiment": "Compare text-first hook A with acted POV hook B. Keep the remaining 22 seconds, caption, duration, platform and observation window fixed."
+  },
+  {
+    "id": "C09",
+    "topic": "Dating",
+    "title": "The three-dot marathon",
+    "hook_a": "Typing. Deleting. Typing. Overthinking.",
+    "hook_b": "POV: You rewrite one message until it no longer sounds like you.",
+    "setup": "You rewrite one message until it no longer sounds like you.",
+    "payoff": "A clear, kind sentence is allowed to be enough.",
+    "cta": "Have you ever edited a message into a different personality?",
+    "caption": "Typing. Deleting. Typing. Overthinking.\n\nYou rewrite one message until it no longer sounds like you.\n\nA clear, kind sentence is allowed to be enough.\n\nHave you ever edited a message into a different personality?\n#SeenAndUnderstood #EverydayConnection",
+    "duration_seconds": 25,
+    "asset": "content/C09.svg",
+    "color": "#bc6f7c",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "Close-up, direct eye contact. Hook as large on-screen type.",
+        "voiceover": "Typing. Deleting. Typing. Overthinking."
+      },
+      {
+        "time": "3–11s",
+        "visual": "Cut to a familiar everyday setting. Hold on one small gesture.",
+        "voiceover": "You rewrite one message until it no longer sounds like you."
+      },
+      {
+        "time": "11–20s",
+        "visual": "Return to camera. Slow the pace and soften the delivery.",
+        "voiceover": "A clear, kind sentence is allowed to be enough."
+      },
+      {
+        "time": "20–25s",
+        "visual": "End card with the question. Leave a beat for reflection.",
+        "voiceover": "Have you ever edited a message into a different personality?"
+      }
+    ],
+    "experiment": "Compare text-first hook A with acted POV hook B. Keep the remaining 22 seconds, caption, duration, platform and observation window fixed."
+  },
+  {
+    "id": "C10",
+    "topic": "Dating",
+    "title": "Small honest signals",
+    "hook_a": "Connection can begin with a simple question.",
+    "hook_b": "POV: Trying to look effortless can make an ordinary conversation feel like an audition.",
+    "setup": "Trying to look effortless can make an ordinary conversation feel like an audition.",
+    "payoff": "Ask about something you are actually curious about.",
+    "cta": "What question gets you past small talk?",
+    "caption": "Connection can begin with a simple question.\n\nTrying to look effortless can make an ordinary conversation feel like an audition.\n\nAsk about something you are actually curious about.\n\nWhat question gets you past small talk?\n#SeenAndUnderstood #EverydayConnection",
+    "duration_seconds": 25,
+    "asset": "content/C10.svg",
+    "color": "#bc6f7c",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "Close-up, direct eye contact. Hook as large on-screen type.",
+        "voiceover": "Connection can begin with a simple question."
+      },
+      {
+        "time": "3–11s",
+        "visual": "Cut to a familiar everyday setting. Hold on one small gesture.",
+        "voiceover": "Trying to look effortless can make an ordinary conversation feel like an audition."
+      },
+      {
+        "time": "11–20s",
+        "visual": "Return to camera. Slow the pace and soften the delivery.",
+        "voiceover": "Ask about something you are actually curious about."
+      },
+      {
+        "time": "20–25s",
+        "visual": "End card with the question. Leave a beat for reflection.",
+        "voiceover": "What question gets you past small talk?"
+      }
+    ],
+    "experiment": "Compare text-first hook A with acted POV hook B. Keep the remaining 22 seconds, caption, duration, platform and observation window fixed."
+  },
+  {
+    "id": "C11",
+    "topic": "Everyday life",
+    "title": "The chair wardrobe",
+    "hook_a": "That chair has become a clothing ecosystem.",
+    "hook_b": "POV: Clean enough to wear again. Not clean enough for the cupboard.",
+    "setup": "Clean enough to wear again. Not clean enough for the cupboard.",
+    "payoff": "One small reset is still a reset. Start with the chair.",
+    "cta": "What is your home’s unofficial storage system?",
+    "caption": "That chair has become a clothing ecosystem.\n\nClean enough to wear again. Not clean enough for the cupboard.\n\nOne small reset is still a reset. Start with the chair.\n\nWhat is your home’s unofficial storage system?\n#SeenAndUnderstood #EverydayConnection",
+    "duration_seconds": 25,
+    "asset": "content/C11.svg",
+    "color": "#a08a52",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "Close-up, direct eye contact. Hook as large on-screen type.",
+        "voiceover": "That chair has become a clothing ecosystem."
+      },
+      {
+        "time": "3–11s",
+        "visual": "Cut to a familiar everyday setting. Hold on one small gesture.",
+        "voiceover": "Clean enough to wear again. Not clean enough for the cupboard."
+      },
+      {
+        "time": "11–20s",
+        "visual": "Return to camera. Slow the pace and soften the delivery.",
+        "voiceover": "One small reset is still a reset. Start with the chair."
+      },
+      {
+        "time": "20–25s",
+        "visual": "End card with the question. Leave a beat for reflection.",
+        "voiceover": "What is your home’s unofficial storage system?"
+      }
+    ],
+    "experiment": "Compare text-first hook A with acted POV hook B. Keep the remaining 22 seconds, caption, duration, platform and observation window fixed."
+  },
+  {
+    "id": "C12",
+    "topic": "Everyday life",
+    "title": "A small win still counts",
+    "hook_a": "Some days, the win is making lunch.",
+    "hook_b": "POV: Your to-do list had ten things. You managed two and a glass of water.",
+    "setup": "Your to-do list had ten things. You managed two and a glass of water.",
+    "payoff": "Let a small finished thing be a finished thing.",
+    "cta": "What small win are you counting today?",
+    "caption": "Some days, the win is making lunch.\n\nYour to-do list had ten things. You managed two and a glass of water.\n\nLet a small finished thing be a finished thing.\n\nWhat small win are you counting today?\n#SeenAndUnderstood #EverydayConnection",
+    "duration_seconds": 25,
+    "asset": "content/C12.svg",
+    "color": "#a08a52",
+    "script": [
+      {
+        "time": "0–3s",
+        "visual": "Close-up, direct eye contact. Hook as large on-screen type.",
+        "voiceover": "Some days, the win is making lunch."
+      },
+      {
+        "time": "3–11s",
+        "visual": "Cut to a familiar everyday setting. Hold on one small gesture.",
+        "voiceover": "Your to-do list had ten things. You managed two and a glass of water."
+      },
+      {
+        "time": "11–20s",
+        "visual": "Return to camera. Slow the pace and soften the delivery.",
+        "voiceover": "Let a small finished thing be a finished thing."
+      },
+      {
+        "time": "20–25s",
+        "visual": "End card with the question. Leave a beat for reflection.",
+        "voiceover": "What small win are you counting today?"
+      }
+    ],
+    "experiment": "Compare text-first hook A with acted POV hook B. Keep the remaining 22 seconds, caption, duration, platform and observation window fixed."
+  }
+]

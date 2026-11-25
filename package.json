@@ -1,0 +1,21 @@
+{
+  "name": "relate-analytics",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "start": "python3 -m http.server 5174 --directory dist --bind 127.0.0.1",
+    "test": "node --test tests/*.test.mjs && python3 -m unittest discover -s tests -p 'test_*.py'",
+    "verify": "node scripts/verify-build.mjs",
+    "check": "npm test && npm run build && npm run verify"
+  },
+  "description": "Social content analytics with local NLP, matched experiments and a reproducible demo campaign.",
+  "engines": {
+    "node": ">=22"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/falconboy99/relate-content-analytics.git"
+  }
+}

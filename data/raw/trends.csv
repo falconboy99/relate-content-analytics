@@ -1,0 +1,37 @@
+topic,week,index,source
+Social anxiety,2026-09-28,32.5,synthetic_demo
+Social anxiety,2026-10-05,36.6,synthetic_demo
+Social anxiety,2026-10-12,45.6,synthetic_demo
+Social anxiety,2026-10-19,52.0,synthetic_demo
+Social anxiety,2026-10-26,57.0,synthetic_demo
+Social anxiety,2026-11-02,64.7,synthetic_demo
+Burnout,2026-09-28,37.4,synthetic_demo
+Burnout,2026-10-05,36.9,synthetic_demo
+Burnout,2026-10-12,42.9,synthetic_demo
+Burnout,2026-10-19,47.3,synthetic_demo
+Burnout,2026-10-26,56.8,synthetic_demo
+Burnout,2026-11-02,59.7,synthetic_demo
+Self comparison,2026-09-28,39.5,synthetic_demo
+Self comparison,2026-10-05,45.5,synthetic_demo
+Self comparison,2026-10-12,46.0,synthetic_demo
+Self comparison,2026-10-19,49.1,synthetic_demo
+Self comparison,2026-10-26,53.6,synthetic_demo
+Self comparison,2026-11-02,59.8,synthetic_demo
+Friendship,2026-09-28,45.7,synthetic_demo
+Friendship,2026-10-05,44.5,synthetic_demo
+Friendship,2026-10-12,51.2,synthetic_demo
+Friendship,2026-10-19,51.3,synthetic_demo
+Friendship,2026-10-26,53.6,synthetic_demo
+Friendship,2026-11-02,56.3,synthetic_demo
+Dating,2026-09-28,50.5,synthetic_demo
+Dating,2026-10-05,52.6,synthetic_demo
+Dating,2026-10-12,51.3,synthetic_demo
+Dating,2026-10-19,50.9,synthetic_demo
+Dating,2026-10-26,54.3,synthetic_demo
+Dating,2026-11-02,56.9,synthetic_demo
+Everyday life,2026-09-28,53.1,synthetic_demo
+Everyday life,2026-10-05,54.5,synthetic_demo
+Everyday life,2026-10-12,52.1,synthetic_demo
+Everyday life,2026-10-19,49.7,synthetic_demo
+Everyday life,2026-10-26,51.7,synthetic_demo
+Everyday life,2026-11-02,47.8,synthetic_demo

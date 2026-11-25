@@ -1,0 +1,437 @@
+{
+  "metrics": {
+    "views": 329482,
+    "reach": 261765,
+    "likes": 10329,
+    "comments": 1623,
+    "shares": 3811,
+    "saves": 5423,
+    "followers_gained": 1017,
+    "actions": 21186,
+    "engagement": 0.08093518996046072,
+    "viral": 12.456974767444082,
+    "saveShare": 1.4229860928890055,
+    "shareRate": 0.014558860046224666,
+    "analyzed": 720,
+    "relatable": 473,
+    "relatableRate": 0.6569444444444444,
+    "coverage": 0.4436229205175601,
+    "retention": 0.6005333632793294
+  },
+  "topics": [
+    {
+      "topic": "Social anxiety",
+      "posts": 4,
+      "views": 84323,
+      "reach": 65916,
+      "likes": 2584,
+      "comments": 286,
+      "shares": 929,
+      "saves": 1690,
+      "followers_gained": 332,
+      "actions": 5489,
+      "engagement": 0.08327265003944415,
+      "viral": 13.275987620608047,
+      "saveShare": 1.8191603875134554,
+      "shareRate": 0.014093695005764913,
+      "analyzed": 120,
+      "relatable": 96,
+      "relatableRate": 0.8,
+      "coverage": 0.4195804195804196,
+      "retention": 0.5209821282449628
+    },
+    {
+      "topic": "Burnout",
+      "posts": 4,
+      "views": 44495,
+      "reach": 33926,
+      "likes": 1318,
+      "comments": 246,
+      "shares": 615,
+      "saves": 879,
+      "followers_gained": 138,
+      "actions": 3058,
+      "engagement": 0.0901373577786948,
+      "viral": 14.50509933384425,
+      "saveShare": 1.4292682926829268,
+      "shareRate": 0.018127689677533455,
+      "analyzed": 120,
+      "relatable": 88,
+      "relatableRate": 0.7333333333333333,
+      "coverage": 0.4878048780487805,
+      "retention": 0.5581018114394876
+    },
+    {
+      "topic": "Self comparison",
+      "posts": 4,
+      "views": 56891,
+      "reach": 47980,
+      "likes": 2260,
+      "comments": 272,
+      "shares": 703,
+      "saves": 891,
+      "followers_gained": 183,
+      "actions": 4126,
+      "engagement": 0.08599416423509795,
+      "viral": 12.819924968736974,
+      "saveShare": 1.267425320056899,
+      "shareRate": 0.014651938307628178,
+      "analyzed": 120,
+      "relatable": 87,
+      "relatableRate": 0.725,
+      "coverage": 0.4411764705882353,
+      "retention": 0.6688201578457049
+    },
+    {
+      "topic": "Friendship",
+      "posts": 4,
+      "views": 53179,
+      "reach": 42936,
+      "likes": 1513,
+      "comments": 296,
+      "shares": 637,
+      "saves": 707,
+      "followers_gained": 168,
+      "actions": 3153,
+      "engagement": 0.07343487982112912,
+      "viral": 11.267933668716228,
+      "saveShare": 1.10989010989011,
+      "shareRate": 0.014836035028880194,
+      "analyzed": 120,
+      "relatable": 76,
+      "relatableRate": 0.6333333333333333,
+      "coverage": 0.40540540540540543,
+      "retention": 0.6221009872318021
+    },
+    {
+      "topic": "Dating",
+      "posts": 4,
+      "views": 52460,
+      "reach": 41536,
+      "likes": 1460,
+      "comments": 253,
+      "shares": 635,
+      "saves": 862,
+      "followers_gained": 131,
+      "actions": 3210,
+      "engagement": 0.07728235747303544,
+      "viral": 12.252022342064715,
+      "saveShare": 1.3574803149606298,
+      "shareRate": 0.015287942989214176,
+      "analyzed": 120,
+      "relatable": 70,
+      "relatableRate": 0.5833333333333334,
+      "coverage": 0.4743083003952569,
+      "retention": 0.6640294414792224
+    },
+    {
+      "topic": "Everyday life",
+      "posts": 4,
+      "views": 38134,
+      "reach": 29471,
+      "likes": 1194,
+      "comments": 270,
+      "shares": 292,
+      "saves": 394,
+      "followers_gained": 65,
+      "actions": 2150,
+      "engagement": 0.07295307251196091,
+      "viral": 9.69766889484578,
+      "saveShare": 1.3493150684931507,
+      "shareRate": 0.009908045196973296,
+      "analyzed": 120,
+      "relatable": 56,
+      "relatableRate": 0.4666666666666667,
+      "coverage": 0.4444444444444444,
+      "retention": 0.6066470079194419
+    }
+  ],
+  "experiment": {
+    "n": 12,
+    "mean": 0.003192015902597151,
+    "p": 0.08203125,
+    "interval": [
+      0.000007226158859993959,
+      0.006098522995940221
+    ]
+  },
+  "correlation": 0.6224992083235305,
+  "trends": [
+    {
+      "topic": "Burnout",
+      "latest": 59.7,
+      "next": 64.39333333333335,
+      "slope": 5.017142857142858,
+      "error": 0.6799999999999997,
+      "date": "2026-11-09",
+      "rows": [
+        {
+          "topic": "Burnout",
+          "week": "2026-09-28",
+          "index": 37.4,
+          "source": "synthetic_demo"
+        },
+        {
+          "topic": "Burnout",
+          "week": "2026-10-05",
+          "index": 36.9,
+          "source": "synthetic_demo"
+        },
+        {
+          "topic": "Burnout",
+          "week": "2026-10-12",
+          "index": 42.9,
+          "source": "synthetic_demo"
+        },
+        {
+          "topic": "Burnout",
+          "week": "2026-10-19",
+          "index": 47.3,
+          "source": "synthetic_demo"
+        },
+        {
+          "topic": "Burnout",
+          "week": "2026-10-26",
+          "index": 56.8,
+          "source": "synthetic_demo"
+        },
+        {
+          "topic": "Burnout",
+          "week": "2026-11-02",
+          "index": 59.7,
+          "source": "synthetic_demo"
+        }
+      ]
+    },
+    {
+      "topic": "Dating",
+      "latest": 56.9,
+      "next": 56.419999999999995,
+      "slope": 1.048571428571428,
+      "error": 3.210000000000008,
+      "date": "2026-11-09",
+      "rows": [
+        {
+          "topic": "Dating",
+          "week": "2026-09-28",
+          "index": 50.5,
+          "source": "synthetic_demo"
+        },
+        {
+          "topic": "Dating",
+          "week": "2026-10-05",
+          "index": 52.6,
+          "source": "synthetic_demo"
+        },
+        {
+          "topic": "Dating",
+          "week": "2026-10-12",
+          "index": 51.3,
+          "source": "synthetic_demo"
+        },
+        {
+          "topic": "Dating",
+          "week": "2026-10-19",
+          "index": 50.9,
+          "source": "synthetic_demo"
+        },
+        {
+          "topic": "Dating",
+          "week": "2026-10-26",
+          "index": 54.3,
+          "source": "synthetic_demo"
+        },
+        {
+          "topic": "Dating",
+          "week": "2026-11-02",
+          "index": 56.9,
+          "source": "synthetic_demo"
+        }
+      ]
+    },
+    {
+      "topic": "Everyday life",
+      "latest": 47.8,
+      "next": 47.75333333333333,
+      "slope": -1.065714285714286,
+      "error": 2.1399999999999935,
+      "date": "2026-11-09",
+      "rows": [
+        {
+          "topic": "Everyday life",
+          "week": "2026-09-28",
+          "index": 53.1,
+          "source": "synthetic_demo"
+        },
+        {
+          "topic": "Everyday life",
+          "week": "2026-10-05",
+          "index": 54.5,
+          "source": "synthetic_demo"
+        },
+        {
+          "topic": "Everyday life",
+          "week": "2026-10-12",
+          "index": 52.1,
+          "source": "synthetic_demo"
+        },
+        {
+          "topic": "Everyday life",
+          "week": "2026-10-19",
+          "index": 49.7,
+          "source": "synthetic_demo"
+        },
+        {
+          "topic": "Everyday life",
+          "week": "2026-10-26",
+          "index": 51.7,
+          "source": "synthetic_demo"
+        },
+        {
+          "topic": "Everyday life",
+          "week": "2026-11-02",
+          "index": 47.8,
+          "source": "synthetic_demo"
+        }
+      ]
+    },
+    {
+      "topic": "Friendship",
+      "latest": 56.3,
+      "next": 58.47333333333333,
+      "slope": 2.2971428571428563,
+      "error": 0.259999999999998,
+      "date": "2026-11-09",
+      "rows": [
+        {
+          "topic": "Friendship",
+          "week": "2026-09-28",
+          "index": 45.7,
+          "source": "synthetic_demo"
+        },
+        {
+          "topic": "Friendship",
+          "week": "2026-10-05",
+          "index": 44.5,
+          "source": "synthetic_demo"
+        },
+        {
+          "topic": "Friendship",
+          "week": "2026-10-12",
+          "index": 51.2,
+          "source": "synthetic_demo"
+        },
+        {
+          "topic": "Friendship",
+          "week": "2026-10-19",
+          "index": 51.3,
+          "source": "synthetic_demo"
+        },
+        {
+          "topic": "Friendship",
+          "week": "2026-10-26",
+          "index": 53.6,
+          "source": "synthetic_demo"
+        },
+        {
+          "topic": "Friendship",
+          "week": "2026-11-02",
+          "index": 56.3,
+          "source": "synthetic_demo"
+        }
+      ]
+    },
+    {
+      "topic": "Self comparison",
+      "latest": 59.8,
+      "next": 61.80666666666666,
+      "slope": 3.682857142857142,
+      "error": 3.519999999999996,
+      "date": "2026-11-09",
+      "rows": [
+        {
+          "topic": "Self comparison",
+          "week": "2026-09-28",
+          "index": 39.5,
+          "source": "synthetic_demo"
+        },
+        {
+          "topic": "Self comparison",
+          "week": "2026-10-05",
+          "index": 45.5,
+          "source": "synthetic_demo"
+        },
+        {
+          "topic": "Self comparison",
+          "week": "2026-10-12",
+          "index": 46,
+          "source": "synthetic_demo"
+        },
+        {
+          "topic": "Self comparison",
+          "week": "2026-10-19",
+          "index": 49.1,
+          "source": "synthetic_demo"
+        },
+        {
+          "topic": "Self comparison",
+          "week": "2026-10-26",
+          "index": 53.6,
+          "source": "synthetic_demo"
+        },
+        {
+          "topic": "Self comparison",
+          "week": "2026-11-02",
+          "index": 59.8,
+          "source": "synthetic_demo"
+        }
+      ]
+    },
+    {
+      "topic": "Social anxiety",
+      "latest": 64.7,
+      "next": 70.92666666666666,
+      "slope": 6.531428571428573,
+      "error": 0.6400000000000148,
+      "date": "2026-11-09",
+      "rows": [
+        {
+          "topic": "Social anxiety",
+          "week": "2026-09-28",
+          "index": 32.5,
+          "source": "synthetic_demo"
+        },
+        {
+          "topic": "Social anxiety",
+          "week": "2026-10-05",
+          "index": 36.6,
+          "source": "synthetic_demo"
+        },
+        {
+          "topic": "Social anxiety",
+          "week": "2026-10-12",
+          "index": 45.6,
+          "source": "synthetic_demo"
+        },
+        {
+          "topic": "Social anxiety",
+          "week": "2026-10-19",
+          "index": 52,
+          "source": "synthetic_demo"
+        },
+        {
+          "topic": "Social anxiety",
+          "week": "2026-10-26",
+          "index": 57,
+          "source": "synthetic_demo"
+        },
+        {
+          "topic": "Social anxiety",
+          "week": "2026-11-02",
+          "index": 64.7,
+          "source": "synthetic_demo"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+post_id,content_id,title,topic,platform,published_at,format,hook,variant,experiment_id,duration_seconds,views,reach,likes,comments,shares,saves,followers_gained,observation_hours,retention_rate,source
+P001,C01,The conversation after the conversation,Social anxiety,Instagram,2026-10-01,Short video,Text-first,A,E01,25,17945,16204,538,83,224,471,95,168,0.6,synthetic_demo
+P002,C01,The conversation after the conversation,Social anxiety,Instagram,2026-10-02,Short video,Acted POV,B,E01,25,12501,9687,397,57,154,222,67,168,0.6312,synthetic_demo
+P003,C02,The phone-call rehearsal,Social anxiety,TikTok,2026-10-04,Short video,Text-first,A,E02,25,27403,20626,829,80,242,548,101,168,0.4856,synthetic_demo
+P004,C02,The phone-call rehearsal,Social anxiety,TikTok,2026-10-05,Short video,Acted POV,B,E02,25,26474,19399,820,66,309,449,69,168,0.452,synthetic_demo
+P005,C03,Rest does not need a receipt,Burnout,Instagram,2026-10-07,Short video,Text-first,A,E03,25,8958,7996,406,76,127,250,28,168,0.6162,synthetic_demo
+P006,C03,Rest does not need a receipt,Burnout,Instagram,2026-10-08,Short video,Acted POV,B,E03,25,10726,8057,355,75,122,218,43,168,0.6051,synthetic_demo
+P007,C04,The Sunday loading screen,Burnout,TikTok,2026-10-10,Short video,Text-first,A,E04,25,11927,8574,260,46,217,147,42,168,0.5341,synthetic_demo
+P008,C04,The Sunday loading screen,Burnout,TikTok,2026-10-11,Short video,Acted POV,B,E04,25,12884,9299,297,49,149,264,25,168,0.5008,synthetic_demo
+P009,C05,A timeline of your own,Self comparison,Instagram,2026-10-13,Short video,Text-first,A,E05,25,13020,10857,423,64,97,278,58,168,0.6127,synthetic_demo
+P010,C05,A timeline of your own,Self comparison,Instagram,2026-10-14,Short video,Acted POV,B,E05,25,10181,8948,403,84,165,128,28,168,0.5417,synthetic_demo
+P011,C06,The highlight-reel spiral,Self comparison,TikTok,2026-10-16,Short video,Text-first,A,E06,25,11601,10465,528,56,112,149,36,168,0.7105,synthetic_demo
+P012,C06,The highlight-reel spiral,Self comparison,TikTok,2026-10-17,Short video,Acted POV,B,E06,25,22089,17710,906,68,329,336,61,168,0.7386,synthetic_demo
+P013,C07,Friendship in calendar invites,Friendship,Instagram,2026-10-19,Short video,Text-first,A,E07,25,19998,14836,402,87,142,216,69,168,0.724,synthetic_demo
+P014,C07,Friendship in calendar invites,Friendship,Instagram,2026-10-20,Short video,Acted POV,B,E07,25,12981,11629,471,68,206,207,52,168,0.4872,synthetic_demo
+P015,C08,The low-battery friend,Friendship,TikTok,2026-10-22,Short video,Text-first,A,E08,25,10799,8104,213,64,141,172,26,168,0.639,synthetic_demo
+P016,C08,The low-battery friend,Friendship,TikTok,2026-10-23,Short video,Acted POV,B,E08,25,9401,8367,427,77,148,112,21,168,0.5722,synthetic_demo
+P017,C09,The three-dot marathon,Dating,Instagram,2026-10-25,Short video,Text-first,A,E09,25,9271,7571,234,63,114,153,23,168,0.7215,synthetic_demo
+P018,C09,The three-dot marathon,Dating,Instagram,2026-10-26,Short video,Acted POV,B,E09,25,15071,11942,508,81,193,243,24,168,0.5815,synthetic_demo
+P019,C10,Small honest signals,Dating,TikTok,2026-10-28,Short video,Text-first,A,E10,25,14225,11344,320,42,135,240,41,168,0.7199,synthetic_demo
+P020,C10,Small honest signals,Dating,TikTok,2026-10-29,Short video,Acted POV,B,E10,25,13893,10679,398,67,193,226,43,168,0.658,synthetic_demo
+P021,C11,The chair wardrobe,Everyday life,Instagram,2026-10-31,Short video,Text-first,A,E11,25,7380,5887,208,77,38,91,15,168,0.6402,synthetic_demo
+P022,C11,The chair wardrobe,Everyday life,Instagram,2026-11-01,Short video,Acted POV,B,E11,25,8549,6414,227,49,109,96,13,168,0.4683,synthetic_demo
+P023,C12,A small win still counts,Everyday life,TikTok,2026-11-03,Short video,Text-first,A,E12,25,6624,5466,183,78,52,61,9,168,0.6282,synthetic_demo
+P024,C12,A small win still counts,Everyday life,TikTok,2026-11-04,Short video,Acted POV,B,E12,25,15581,11704,576,66,93,146,28,168,0.6575,synthetic_demo

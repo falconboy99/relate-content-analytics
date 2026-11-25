@@ -1,0 +1,157 @@
+id,text,label,split,source
+L001,This is exactly me,Relatable,train,author_labeled_demo
+L002,I feel so seen by this,Relatable,train,author_labeled_demo
+L003,I thought I was the only one,Relatable,train,author_labeled_demo
+L004,This happens to me every day,Relatable,train,author_labeled_demo
+L005,I do this all the time,Relatable,train,author_labeled_demo
+L006,You described my life perfectly,Relatable,train,author_labeled_demo
+L007,I relate to this so much,Relatable,train,author_labeled_demo
+L008,Same here every single week,Relatable,train,author_labeled_demo
+L009,This is literally my life,Relatable,train,author_labeled_demo
+L010,I have been there too,Relatable,train,author_labeled_demo
+L011,I needed to hear this today,Relatable,train,author_labeled_demo
+L012,I struggle with this as well,Relatable,train,author_labeled_demo
+L013,This makes me feel less alone,Relatable,train,author_labeled_demo
+L014,I feel understood for once,Relatable,train,author_labeled_demo
+L015,This hit home for me,Relatable,train,author_labeled_demo
+L016,I always overthink my messages too,Relatable,train,author_labeled_demo
+L017,My friends and I do this,Relatable,train,author_labeled_demo
+L018,I experience the same thing,Relatable,train,author_labeled_demo
+L019,I keep comparing myself to others,Relatable,train,author_labeled_demo
+L020,I also feel behind in life,Relatable,train,author_labeled_demo
+L021,I feel guilty when I take a break,Relatable,train,author_labeled_demo
+L022,I get nervous before making calls,Relatable,train,author_labeled_demo
+L023,I am afraid of being judged too,Relatable,train,author_labeled_demo
+L024,I rehearse conversations in my head,Relatable,train,author_labeled_demo
+L025,I have felt this for years,Relatable,train,author_labeled_demo
+L026,I am going through this right now,Relatable,train,author_labeled_demo
+L027,That is so relatable,Relatable,train,author_labeled_demo
+L028,So true for me,Relatable,train,author_labeled_demo
+L029,It feels like you know me,Relatable,train,author_labeled_demo
+L030,You put my feelings into words,Relatable,train,author_labeled_demo
+L031,This could have been written about me,Relatable,train,author_labeled_demo
+L032,I do the exact same thing,Relatable,train,author_labeled_demo
+L033,We are living the same life,Relatable,train,author_labeled_demo
+L034,Glad I am not alone in this,Relatable,train,author_labeled_demo
+L035,I cried because this is my experience,Relatable,train,author_labeled_demo
+L036,I have this problem every Monday,Relatable,train,author_labeled_demo
+L037,I am exhausted from pretending too,Relatable,train,author_labeled_demo
+L038,I feel this in my soul,Relatable,train,author_labeled_demo
+L039,Yes this is what I deal with,Relatable,train,author_labeled_demo
+L040,That awkward moment is familiar,Relatable,train,author_labeled_demo
+L041,This reminds me of my own experience,Relatable,train,author_labeled_demo
+L042,My life in one video,Relatable,train,author_labeled_demo
+L043,It is comforting to know others feel this,Relatable,train,author_labeled_demo
+L044,I have never felt more understood,Relatable,train,author_labeled_demo
+L045,Same problem here,Relatable,train,author_labeled_demo
+L046,I can relate to the feeling,Relatable,train,author_labeled_demo
+L047,This speaks to me personally,Relatable,train,author_labeled_demo
+L048,I understand because I have lived it,Relatable,train,author_labeled_demo
+L049,I know exactly how this feels,Relatable,train,author_labeled_demo
+L050,This is me after every meeting,Relatable,train,author_labeled_demo
+L051,I save these because they help me feel seen,Relatable,train,author_labeled_demo
+L052,I share this struggle,Relatable,train,author_labeled_demo
+L053,I cannot stop doing this either,Relatable,train,author_labeled_demo
+L054,I thought it was just me,Relatable,train,author_labeled_demo
+L055,I feel the same anxiety,Relatable,train,author_labeled_demo
+L056,I have experienced that loneliness,Relatable,train,author_labeled_demo
+L057,This captures my everyday struggle,Relatable,train,author_labeled_demo
+L058,Someone finally said what I feel,Relatable,train,author_labeled_demo
+L059,I needed this reminder for myself,Relatable,train,author_labeled_demo
+L060,This is my situation right now,Relatable,train,author_labeled_demo
+L061,Nice video,Neutral,train,author_labeled_demo
+L062,What camera do you use,Neutral,train,author_labeled_demo
+L063,When is the next episode,Neutral,train,author_labeled_demo
+L064,Please add subtitles,Neutral,train,author_labeled_demo
+L065,I like the editing,Neutral,train,author_labeled_demo
+L066,The music sounds great,Neutral,train,author_labeled_demo
+L067,Where was this filmed,Neutral,train,author_labeled_demo
+L068,What is the song called,Neutral,train,author_labeled_demo
+L069,Thanks for sharing,Neutral,train,author_labeled_demo
+L070,Good production quality,Neutral,train,author_labeled_demo
+L071,Interesting topic,Neutral,train,author_labeled_demo
+L072,Can you post the link,Neutral,train,author_labeled_demo
+L073,How long did this take to make,Neutral,train,author_labeled_demo
+L074,The colors are beautiful,Neutral,train,author_labeled_demo
+L075,That transition was smooth,Neutral,train,author_labeled_demo
+L076,I do not relate to this,Neutral,train,author_labeled_demo
+L077,This is not my experience,Neutral,train,author_labeled_demo
+L078,I never feel this way,Neutral,train,author_labeled_demo
+L079,This does not describe my life,Neutral,train,author_labeled_demo
+L080,I cannot relate at all,Neutral,train,author_labeled_demo
+L081,Not everyone feels like this,Neutral,train,author_labeled_demo
+L082,I disagree with this message,Neutral,train,author_labeled_demo
+L083,This feels exaggerated,Neutral,train,author_labeled_demo
+L084,This is not true for me,Neutral,train,author_labeled_demo
+L085,That has never happened to me,Neutral,train,author_labeled_demo
+L086,What time do you upload,Neutral,train,author_labeled_demo
+L087,Can you make a tutorial,Neutral,train,author_labeled_demo
+L088,First comment,Neutral,train,author_labeled_demo
+L089,Looking forward to part two,Neutral,train,author_labeled_demo
+L090,The sound is too quiet,Neutral,train,author_labeled_demo
+L091,This looks professionally made,Neutral,train,author_labeled_demo
+L092,Your typography is nice,Neutral,train,author_labeled_demo
+L093,Which app did you use,Neutral,train,author_labeled_demo
+L094,I prefer the previous video,Neutral,train,author_labeled_demo
+L095,That is a broad generalization,Neutral,train,author_labeled_demo
+L096,There is no evidence for this claim,Neutral,train,author_labeled_demo
+L097,I do not understand the point,Neutral,train,author_labeled_demo
+L098,Please explain the last sentence,Neutral,train,author_labeled_demo
+L099,The video froze halfway through,Neutral,train,author_labeled_demo
+L100,I would like more context,Neutral,train,author_labeled_demo
+L101,The background is distracting,Neutral,train,author_labeled_demo
+L102,Is this available in another language,Neutral,train,author_labeled_demo
+L103,The caption has a typo,Neutral,train,author_labeled_demo
+L104,Great lighting in this shot,Neutral,train,author_labeled_demo
+L105,Where can I find the full version,Neutral,train,author_labeled_demo
+L106,That is an interesting perspective,Neutral,train,author_labeled_demo
+L107,I am here for the soundtrack,Neutral,train,author_labeled_demo
+L108,Please credit the artist,Neutral,train,author_labeled_demo
+L109,What font is this,Neutral,train,author_labeled_demo
+L110,A useful topic for discussion,Neutral,train,author_labeled_demo
+L111,I am not the target audience,Neutral,train,author_labeled_demo
+L112,This is unrelated to me,Neutral,train,author_labeled_demo
+L113,No personal connection here,Neutral,train,author_labeled_demo
+L114,I feel differently about it,Neutral,train,author_labeled_demo
+L115,This is not relatable to me,Neutral,train,author_labeled_demo
+L116,I cannot see myself in this,Neutral,train,author_labeled_demo
+L117,I do not experience this problem,Neutral,train,author_labeled_demo
+L118,Neutral on this topic,Neutral,train,author_labeled_demo
+L119,This has nothing to do with my life,Neutral,train,author_labeled_demo
+L120,The content is okay,Neutral,train,author_labeled_demo
+L121,You just described what I go through,Relatable,test,author_labeled_demo
+L122,I feel understood watching this clip,Relatable,test,author_labeled_demo
+L123,I struggle with that feeling every evening,Relatable,test,author_labeled_demo
+L124,I thought only I had this problem,Relatable,test,author_labeled_demo
+L125,That is my entire week in a sentence,Relatable,test,author_labeled_demo
+L126,I rehearse my order before reaching the counter too,Relatable,test,author_labeled_demo
+L127,Same here and it makes me feel less alone,Relatable,test,author_labeled_demo
+L128,This video captured my life so well,Relatable,test,author_labeled_demo
+L129,I needed this because I am exhausted,Relatable,test,author_labeled_demo
+L130,I also compare my progress with friends,Relatable,test,author_labeled_demo
+L131,I have been in that situation before,Relatable,test,author_labeled_demo
+L132,Finally someone understands how I feel,Relatable,test,author_labeled_demo
+L133,This is painfully familiar to me,Relatable,test,author_labeled_demo
+L134,I felt seen for the first time today,Relatable,test,author_labeled_demo
+L135,My brain does exactly this,Relatable,test,author_labeled_demo
+L136,I deal with the same thing at work,Relatable,test,author_labeled_demo
+L137,You have put words to my experience,Relatable,test,author_labeled_demo
+L138,This reminds me that I am not alone,Relatable,test,author_labeled_demo
+L139,Could you name the background track,Neutral,test,author_labeled_demo
+L140,The lighting and color choices look lovely,Neutral,test,author_labeled_demo
+L141,I disagree with the main point,Neutral,test,author_labeled_demo
+L142,I do not relate to your story,Neutral,test,author_labeled_demo
+L143,This has never been a problem for me,Neutral,test,author_labeled_demo
+L144,Please share your editing software,Neutral,test,author_labeled_demo
+L145,When will the next part come out,Neutral,test,author_labeled_demo
+L146,The subtitles are hard to read,Neutral,test,author_labeled_demo
+L147,This is not how I experience life,Neutral,test,author_labeled_demo
+L148,Can we get a longer version,Neutral,test,author_labeled_demo
+L149,This does not resonate with me,Neutral,test,author_labeled_demo
+L150,I am interested in the camera settings,Neutral,test,author_labeled_demo
+L151,I never struggle with this issue,Neutral,test,author_labeled_demo
+L152,The last frame has a spelling mistake,Neutral,test,author_labeled_demo
+L153,Where can I download this music,Neutral,test,author_labeled_demo
+L154,Nice work on the animation,Neutral,test,author_labeled_demo
+L155,Not my situation at all,Neutral,test,author_labeled_demo
+L156,I think this is overstated,Neutral,test,author_labeled_demo

@@ -1,0 +1,10 @@
+{
+  "duplicate_posts": 1,
+  "duplicate_comments": 1,
+  "empty_comments": 1,
+  "duplicate_trends": 0,
+  "posts": 24,
+  "comments": 720,
+  "trends": 36,
+  "source": "synthetic_demo"
+}

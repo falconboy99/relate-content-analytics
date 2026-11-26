@@ -94,6 +94,8 @@ Run `npm run check` to execute the JavaScript/Python tests, recreate `dist/`, an
 
 For a static hosting provider, select this repository, leave the project root at the repository root, set **build command** to `npm run build` and **publish directory** to `dist`. No environment variables are required. `netlify.toml` already contains these settings. Hosting is not automatically enabled by pushing the repository.
 
+For **Vercel**, import this repository with **Root Directory** set to the repository root (`.`). The committed `vercel.json` selects the **Other** framework preset, runs `npm run build`, and serves `dist/`. Installation is skipped because the dashboard has no npm dependencies. Node.js is pinned to 22.x to match CI. Do not use `npm start` as the build command: it starts a local preview server. Deploy the latest commit after changing settings; redeploying an older commit will not include the new configuration.
+
 - [Deployment guide](reports/deployment.html)
 - [Methodology and data dictionary](reports/methodology.html)
 - [Strategy report (PDF)](reports/strategy-report.pdf)

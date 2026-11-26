@@ -12,7 +12,7 @@
   },
   "description": "Social content analytics with local NLP, matched experiments and a reproducible demo campaign.",
   "engines": {
-    "node": ">=22"
+    "node": "22.x"
   },
   "repository": {
     "type": "git",

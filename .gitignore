@@ -9,3 +9,4 @@ deliverables/
 !.env.example
 .venv/
 coverage/
+.vercel/
